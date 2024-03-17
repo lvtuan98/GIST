@@ -1,0 +1,5 @@
+langchain
+black
+pinecone-client
+openai
+tiktoken
